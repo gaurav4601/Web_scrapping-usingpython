@@ -1,0 +1,21 @@
+username,repo name,stars,repo_url
+localstack,localstack,45.9k,https://github.com/localstack/localstack
+harness,drone,26.5k,https://github.com/harness/drone
+jenkinsci,jenkins,20.3k,https://github.com/jenkinsci/jenkins
+auchenberg,volkswagen,12.6k,https://github.com/auchenberg/volkswagen
+theonedev,onedev,10.8k,https://github.com/theonedev/onedev
+openshift,origin,8.3k,https://github.com/openshift/origin
+dagger,dagger,7.7k,https://github.com/dagger/dagger
+concourse,concourse,6.8k,https://github.com/concourse/concourse
+gocd,gocd,6.7k,https://github.com/gocd/gocd
+buildbot,buildbot,5k,https://github.com/buildbot/buildbot
+gaia-pipeline,gaia,5k,https://github.com/gaia-pipeline/gaia
+Strider-CD,strider,4.6k,https://github.com/Strider-CD/strider
+jenkins-x,jx,4.3k,https://github.com/jenkins-x/jx
+milanm,DevOps-Roadmap,4.1k,https://github.com/milanm/DevOps-Roadmap
+ovh,cds,4.1k,https://github.com/ovh/cds
+xcpretty,xcpretty,3.8k,https://github.com/xcpretty/xcpretty
+hygieia,hygieia,3.7k,https://github.com/hygieia/hygieia
+iterative,cml,3.6k,https://github.com/iterative/cml
+cake-build,cake,3.5k,https://github.com/cake-build/cake
+werf,werf,3.5k,https://github.com/werf/werf

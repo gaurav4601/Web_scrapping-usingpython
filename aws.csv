@@ -1,0 +1,21 @@
+username,repo name,stars,repo_url
+localstack,localstack,45.9k,https://github.com/localstack/localstack
+serverless,serverless,44.2k,https://github.com/serverless/serverless
+bregman-arie,devops-exercises,39.9k,https://github.com/bregman-arie/devops-exercises
+donnemartin,data-science-ipython-notebooks,24.7k,https://github.com/donnemartin/data-science-ipython-notebooks
+pulumi,pulumi,15.1k,https://github.com/pulumi/pulumi
+ramitsurana,awesome-kubernetes,13.6k,https://github.com/ramitsurana/awesome-kubernetes
+kubernetes-sigs,kubespray,13.5k,https://github.com/kubernetes-sigs/kubespray
+aws,aws-cli,13.4k,https://github.com/aws/aws-cli
+mozilla,sops,12k,https://github.com/mozilla/sops
+serverless-stack,sst,11.6k,https://github.com/serverless-stack/sst
+donnemartin,awesome-aws,11.2k,https://github.com/donnemartin/awesome-aws
+apereo,cas,10k,https://github.com/apereo/cas
+caprover,caprover,9.9k,https://github.com/caprover/caprover
+aws,aws-cdk,9.8k,https://github.com/aws/aws-cdk
+GoogleCloudPlatform,terraformer,9.6k,https://github.com/GoogleCloudPlatform/terraformer
+aws,chalice,9.5k,https://github.com/aws/chalice
+aws-amplify,amplify-js,9.1k,https://github.com/aws-amplify/amplify-js
+aws,serverless-application-model,8.9k,https://github.com/aws/serverless-application-model
+google,go-cloud,8.9k,https://github.com/google/go-cloud
+apex,up,8.7k,https://github.com/apex/up

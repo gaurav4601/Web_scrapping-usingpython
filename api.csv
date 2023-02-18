@@ -1,0 +1,21 @@
+username,repo name,stars,repo_url
+public-apis,public-apis,228k,https://github.com/public-apis/public-apis
+neovim,neovim,62.5k,https://github.com/neovim/neovim
+tiangolo,fastapi,54.6k,https://github.com/tiangolo/fastapi
+strapi,strapi,51.9k,https://github.com/strapi/strapi
+hoppscotch,hoppscotch,49.9k,https://github.com/hoppscotch/hoppscotch
+ocornut,imgui,45.4k,https://github.com/ocornut/imgui
+slatedocs,slate,34.9k,https://github.com/slatedocs/slate
+meilisearch,meilisearch,33.7k,https://github.com/meilisearch/meilisearch
+hasura,graphql-engine,29.3k,https://github.com/hasura/graphql-engine
+ccxt,ccxt,27.3k,https://github.com/ccxt/ccxt
+Binaryify,NeteaseCloudMusicApi,27k,https://github.com/Binaryify/NeteaseCloudMusicApi
+Kong,insomnia,26.6k,https://github.com/Kong/insomnia
+httpie,httpie,26.5k,https://github.com/httpie/httpie
+YMFE,yapi,25.7k,https://github.com/YMFE/yapi
+encode,django-rest-framework,25k,https://github.com/encode/django-rest-framework
+littlecodersh,ItChat,23k,https://github.com/littlecodersh/ItChat
+trpc,trpc,21.5k,https://github.com/trpc/trpc
+paularmstrong,normalizr,21k,https://github.com/paularmstrong/normalizr
+microsoft,api-guidelines,20.7k,https://github.com/microsoft/api-guidelines
+FallibleInc,security-guide-for-developers,20.6k,https://github.com/FallibleInc/security-guide-for-developers

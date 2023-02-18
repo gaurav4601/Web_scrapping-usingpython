@@ -1,0 +1,21 @@
+username,repo name,stars,repo_url
+realm,SwiftLint,17k,https://github.com/realm/SwiftLint
+facebook,infer,13.8k,https://github.com/facebook/infer
+analysis-tools-dev,static-analysis,10.9k,https://github.com/analysis-tools-dev/static-analysis
+Kristories,awesome-guidelines,8.6k,https://github.com/Kristories/awesome-guidelines
+checkstyle,checkstyle,7.5k,https://github.com/checkstyle/checkstyle
+SonarSource,sonarqube,7.5k,https://github.com/SonarSource/sonarqube
+facebook,pyre-check,6.2k,https://github.com/facebook/pyre-check
+reviewdog,reviewdog,6k,https://github.com/reviewdog/reviewdog
+detekt,detekt,5.2k,https://github.com/detekt/detekt
+import-js,eslint-plugin-import,4.6k,https://github.com/import-js/eslint-plugin-import
+simplecov-ruby,simplecov,4.6k,https://github.com/simplecov-ruby/simplecov
+PyCQA,pylint,4.5k,https://github.com/PyCQA/pylint
+pmd,pmd,4.2k,https://github.com/pmd/pmd
+trekhleb,state-of-the-art-shitcode,4k,https://github.com/trekhleb/state-of-the-art-shitcode
+phpro,grumphp,3.9k,https://github.com/phpro/grumphp
+kucherenko,jscpd,3k,https://github.com/kucherenko/jscpd
+htmlhint,HTMLHint,2.9k,https://github.com/htmlhint/HTMLHint
+codeclimate,codeclimate,2.4k,https://github.com/codeclimate/codeclimate
+wemake-services,wemake-python-styleguide,2.1k,https://github.com/wemake-services/wemake-python-styleguide
+uber,piranha,2k,https://github.com/uber/piranha

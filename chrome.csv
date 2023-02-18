@@ -1,0 +1,21 @@
+username,repo name,stars,repo_url
+electron,electron,106k,https://github.com/electron/electron
+puppeteer,puppeteer,82k,https://github.com/puppeteer/puppeteer
+microsoft,playwright,47.8k,https://github.com/microsoft/playwright
+FiloSottile,mkcert,39.7k,https://github.com/FiloSottile/mkcert
+iamadamdev,bypass-paywalls-chrome,33.6k,https://github.com/iamadamdev/bypass-paywalls-chrome
+jaywcjlove,linux-command,22.8k,https://github.com/jaywcjlove/linux-command
+ovity,octotree,22.4k,https://github.com/ovity/octotree
+segmentio,nightmare,19.3k,https://github.com/segmentio/nightmare
+checkly,headless-recorder,14.7k,https://github.com/checkly/headless-recorder
+google,WebFundamentals,13.7k,https://github.com/google/WebFundamentals
+prisma-archive,chromeless,13.2k,https://github.com/prisma-archive/chromeless
+GoogleChrome,chrome-extensions-samples,11.6k,https://github.com/GoogleChrome/chrome-extensions-samples
+casesandberg,react-color,11.2k,https://github.com/casesandberg/react-color
+crimx,ext-saladict,10.3k,https://github.com/crimx/ext-saladict
+gildas-lormeau,SingleFile,10.1k,https://github.com/gildas-lormeau/SingleFile
+MetaMask,metamask-extension,9.4k,https://github.com/MetaMask/metamask-extension
+chromedp,chromedp,8.7k,https://github.com/chromedp/chromedp
+uBlock-LLC,uBlock,8.1k,https://github.com/uBlock-LLC/uBlock
+moonD4rk,HackBrowserData,7k,https://github.com/moonD4rk/HackBrowserData
+alvarcarto,url-to-pdf-api,6.8k,https://github.com/alvarcarto/url-to-pdf-api

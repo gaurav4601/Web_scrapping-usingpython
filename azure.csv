@@ -1,0 +1,21 @@
+username,repo name,stars,repo_url
+bregman-arie,devops-exercises,39.9k,https://github.com/bregman-arie/devops-exercises
+pulumi,pulumi,15.1k,https://github.com/pulumi/pulumi
+microsoft,recommenders,15.1k,https://github.com/microsoft/recommenders
+ramitsurana,awesome-kubernetes,13.6k,https://github.com/ramitsurana/awesome-kubernetes
+Azure,azure-quickstart-templates,12.7k,https://github.com/Azure/azure-quickstart-templates
+mozilla,sops,12k,https://github.com/mozilla/sops
+caprover,caprover,9.9k,https://github.com/caprover/caprover
+google,go-cloud,8.9k,https://github.com/google/go-cloud
+microsoft,computervision-recipes,8.8k,https://github.com/microsoft/computervision-recipes
+infracost,infracost,8.7k,https://github.com/infracost/infracost
+prowler-cloud,prowler,7.6k,https://github.com/prowler-cloud/prowler
+microsoft,azuredatastudio,7k,https://github.com/microsoft/azuredatastudio
+node-formidable,formidable,6.5k,https://github.com/node-formidable/formidable
+midwayjs,midway,6.4k,https://github.com/midwayjs/midway
+thangchung,clean-code-dotnet,5.8k,https://github.com/thangchung/clean-code-dotnet
+aquasecurity,tfsec,5.6k,https://github.com/aquasecurity/tfsec
+budtmo,docker-android,5.4k,https://github.com/budtmo/docker-android
+bridgecrewio,checkov,5.3k,https://github.com/bridgecrewio/checkov
+nccgroup,ScoutSuite,5.1k,https://github.com/nccgroup/ScoutSuite
+turbot,steampipe,4.8k,https://github.com/turbot/steampipe
